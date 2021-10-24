@@ -4,7 +4,7 @@ For this project, I manipulated user retenetion data using Python's Pandas and S
 
 **Analysis**
   - Jupyter Notebook file used to manipulate the data and generate an initial analysis.
-  - SQL queries used to explore questions around the data further. 
+  - SQL queries used to explore further questions around the data. 
 
 **Figures**
   - Heatmap images displaying user count and retention rates per country.
@@ -12,7 +12,7 @@ For this project, I manipulated user retenetion data using Python's Pandas and S
 **Data**
   - User retention data I used from a fictitious application.
  
-To conduct this analysis, I initially used the tutorial below. I took my approach a step further by grouping by country to conduct market specific pivot tables and heatmaps, as well as connecting each DataFrame to a SQL database. 
+To conduct this analysis, I initially used the tutorial below. I took my approach a step further by grouping by country to conduct market specific pivot tables and heatmaps, as well as connecting each DataFrame to a SQL database and writing queries to delve into additional questions around the data. 
 
 Tutorial: https://towardsdatascience.com/how-to-calculate-customer-retention-rate-a-practical-approach-1c97709d495f
 
