@@ -12,7 +12,7 @@ For this project, I manipulated user retenetion data using Python's Pandas and S
 **Data**
   - User retention data I used from a fictitious application.
  
-To conduct this analysis, I initially used the tutorial below. I took my approach a step further by grouping by country to conduct market specific pivot tables and heatmaps, as well as connecting each DataFrame to a SQL database and writing queries to delve into additional questions around the data. 
+To conduct this analysis, I initially used the tutorial below. I took my approach a step further by grouping by country to conduct market specific pivot tables and heatmaps, as well as connecting each DataFrame to a SQL database and writing queries to examine additional questions around the data. 
 
 Tutorial: https://towardsdatascience.com/how-to-calculate-customer-retention-rate-a-practical-approach-1c97709d495f
 
